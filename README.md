@@ -6,6 +6,7 @@ It is for like proxmox but you can access the desktop. The Vebian OS is for peop
 ## Pro's
 
 Lightweight:It uses customized xfce for desktop
+
 No Bloatware:No bloatware will be installed on vebian
 
 ## Con's
