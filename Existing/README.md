@@ -4,10 +4,13 @@ Vebian is compatible with existing/normal Debian installations. But there will b
 
 ## Tools needed before install
 
-Git
-Wget
-Modprobe
-Virsh
+Git 
+ 
+ Wget 
+
+Modprobe 
+
+Virsh 
 
 ## Step One:
 
