@@ -2,7 +2,7 @@
 
 Vebian is compatible with existing/normal Debian installations. But there will be more steps to take before running Vebian.
 
-## Tools needed before install
+## Tools needed before installing
 
 Git 
  
