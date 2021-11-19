@@ -8,9 +8,6 @@ Git
  
  Wget 
 
-Modprobe 
-
-Virsh 
 
 ## Step One:
 
