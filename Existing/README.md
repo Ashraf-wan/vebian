@@ -23,7 +23,9 @@ chmod +x setup.sh
 ## Step Two:
 
 A. Remove Panel 1
+
 B. Remove All Apps in Panel 2
+
 C. Add Virt-Manager, VIrtualBox and Xfce Terminal
 
 ## Optional
