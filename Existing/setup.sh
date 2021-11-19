@@ -20,3 +20,5 @@ wget http://mirrors.acm.wpi.edu/archlinux/iso/2021.11.01/archlinux-2021.11.01-x8
 wget https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-11.1.0-amd64-netinst.iso
 wget https://alpha.de.repo.voidlinux.org/live/current/void-live-x86_64-20210930.iso
 wget https://dl-cdn.alpinelinux.org/alpine/v3.14/releases/x86_64/alpine-virt-3.14.3-x86_64.iso
+wget http://tinycorelinux.net/12.x/x86/release/TinyCore-current.iso
+wget https://bouncer.gentoo.org/fetch/root/all/releases/amd64/autobuilds/20211114T170549Z/install-amd64-minimal-20211114T170549Z.iso
