@@ -1,5 +1,4 @@
-## Vebian
-Vebian is OS for using a virtual machines.
+##Vebian
 
 It is like proxmox but you can access the desktop to use the virtual machines.
 
@@ -15,7 +14,4 @@ No Web UI: There will be no web UI for vebian
 
 Vebian Linux only takes a moment to setup.
 
-There are three ways to go:
-
-  1. [Install on an existing Debian machine](https://github.com/Ashraf-wan/vebian/tree/main/Existing).
-  2. Use the [live ISO](https://blackarch.org/downloads.html).
+[Install on an existing Debian machine](https://github.com/Ashraf-wan/vebian/tree/main/Existing).
