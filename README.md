@@ -14,4 +14,4 @@ No Web UI: There will be no web UI for vebian
 
 Vebian Linux only takes a moment to setup.
 
-[Install on an existing Debian machine](https://github.com/Ashraf-wan/vebian/tree/main/Existing).
+[Install on an existing Debian machine](https://github.com/Ashraf-wan/vebian/tree/main/Install).
